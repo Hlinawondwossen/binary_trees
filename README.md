@@ -1,1 +1,1 @@
-nery trees
+binary trees
